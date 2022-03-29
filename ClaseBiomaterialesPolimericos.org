@@ -3,6 +3,7 @@
 #+STARTUP: beamer
 #+SETUPFILE: config.org
 #+OPTIONS: H:3
+#+OPTIONS: ^:{}
 #+PROPERTY: header-args :results output :exports both :session R:class :tangle yes :comments org
 
 ** Introducción 
@@ -29,7 +30,7 @@
  <p>This text contains <sup>superscript</sup> text.</p> 
 
 ***** Monómero(s) y unidad repetitiva 
-   - Un polímero es una macromolécula compuesta por una combinación de múltiples  (10^4 10^6 g/mol) unidades pequeñas que se repiten a lo largo de la molécula. A las pequeñas unidades que se repiten se les denomina "monómeros", y la unidad que se repite a lo largo de la cadena se llama "unidad estructural repetida". 
+   - Un polímero es una macromolécula compuesta por una combinación de múltiples  (10^{4} 10^6 g/mol) unidades pequeñas que se repiten a lo largo de la molécula. A las pequeñas unidades que se repiten se les denomina "monómeros", y la unidad que se repite a lo largo de la cadena se llama "unidad estructural repetida". 
    
    
 ***** Composición química
