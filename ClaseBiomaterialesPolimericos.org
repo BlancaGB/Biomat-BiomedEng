@@ -47,3 +47,72 @@ attr(x, 'class')
 #+begin_src R
 is.object(x)
 #+end_src
+
+
+* Clases y métodos S4
+
+** Clases en =S4=
+*** Clases en =S4=
+Se construyen con =setClass=, que acepta varios argumentos
+  - =Class=: nombre de la clase.
+  - =slots=: una lista con las clases de cada componente. Los nombres de este vector corresponden a los nombres de los componentes (=slot=).
+  - =contains=: un vector con las clases que esta nueva clase extiende.
+  - =prototype=: un objeto proporcionando el contenido por defecto para los componentes definidos en =slots=.
+  - =validity=: a función que comprueba la validez de la clase creada con la información suministrada.
+
+*** Datos de ejemplo
+Vamos a ilustrar esta sección con datos de seguimiento GPS de gaviotas[fn:1] empleando un extracto del conjunto de datos[fn:2].
+#+ATTR_LATEX: :height 0.5\textheight
+[[file:figs/73915_lesser-black-backed-gull-with-transmitter.jpg]]
+
+*** Definición de una nueva clase
+
+#+begin_src R
+setClass('bird',
+         slots = c(
+             name = 'character',
+             lat = 'numeric',
+             lon = 'numeric',
+             alt = 'numeric',
+             speed = 'numeric',
+             time = 'POSIXct')
+         )
+#+end_src
+*** Funciones para obtener información de una clase
+#+begin_src R
+getClass('bird')
+#+end_src
+#+begin_src R
+getSlots('bird')
+#+end_src
+#+begin_src R
+slotNames('bird')
+#+end_src
+
+*** Creación de un objeto con la clase definida
+Una vez que la clase ha sido definida con =setClass=, se puede crear un objeto nuevo con =new=. Es habitual definir funciones que construyen y modifican objetos para evitar el uso directo de =new=:
+#+begin_src R
+readBird <- function(name, path)
+{
+    csvFile <- file.path(path, paste0(name, ".csv"))
+
+    vals <- read.csv(csvFile)
+    
+    new('bird',
+        name = name,
+        lat = vals$latitude,
+        lon = vals$longitude,
+        alt = vals$altitude,
+        speed = vals$speed_2d,
+        time = as.POSIXct(vals$date_time)
+        )
+}  
+#+end_src
+
+*** Creación de objetos con la clase definida
+#+begin_src R
+eric <- readBird("eric", "data")
+nico <- readBird("nico", "data")
+sanne <- readBird("sanne", "data")
+#+end_src
+
