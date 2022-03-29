@@ -41,12 +41,12 @@ Conformación:
 Si se usan 
 
 
-*** Tipos 
+* Tipos 
 
    
-*** Propiedades  
+* Propiedades  
 
-*** Aplicaciones 
+* Aplicaciones 
 
 
 * Footnotes
