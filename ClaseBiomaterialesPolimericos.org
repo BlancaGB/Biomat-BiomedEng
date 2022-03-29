@@ -5,7 +5,7 @@
 #+OPTIONS: H:3
 #+PROPERTY: header-args :results output :exports both :session R:class :tangle yes :comments org
 
-* Introducción 
+** Introducción 
 
 *** Breve historia de los materiales poliméricos o polímeros 
 
@@ -41,15 +41,15 @@ Conformación:
 Si se usan 
 
 
-* Tipos 
+** Tipos 
 
    
-* Propiedades  
+** Propiedades  
 
-* Aplicaciones 
+** Aplicaciones 
 
 
-* Footnotes
+** Footnotes
 
 [fn:2]https://lifewatch.inbo.be/blog/files/bird_tracking.zip 
 
