@@ -39,17 +39,22 @@
 ***** Mecanismo de polimerización
    - La síntesis de pollímeros se lleva a cabo en reactores, a menudo con la aplicación de calor y temperatura, para que de esta forma las unidades monoméricas se conecten unas con otras por medio de una reacción química. Al proceso químico de síntesis de polímeros se le denomina polimerización.
    - 
+   
+***** Configuración: isómeros, tacticida 
+
+***** Conformación
 
 Monómero(s) y unidad repetitiva
 Configuración: isómeros, tacticidad
 Conformación: 
 
-Peso molecular, ramificación
-Enlaces (o no) entre moléculas
+
 
 **** Macroestructura
 
+***** Peso molecular, ramificación
 
+***** Enlaces (o no) entre moléculas
 
 **** Aditivos  
 Si se usan 
