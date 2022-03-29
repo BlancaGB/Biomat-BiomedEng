@@ -1,4 +1,4 @@
-#+TITLE:     Biomateriales Poliméricos
+#+TITLE:     Biomateriales poliméricos
 
 #+STARTUP: beamer
 #+SETUPFILE: config.org
