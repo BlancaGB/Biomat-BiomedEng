@@ -7,6 +7,10 @@
 
 * Introducción 
 
+*** Ciencia de polímeros 
+
+Un polímero es una macromolécula compuesta por una combinación de múltiples unidades pequeñas que se repiten a lo largo de la molécula. A las pequeñas unidades que se repiten se les denomina "monómeros", y la unidad que se repite a lo largo de la cadena se llama "unidad estructural repetida". La mayoría de los monómeros están compuestos por carbono, hidrógeno, oxígeno y nitrógeno. Unos pocos elementos adicionales pueden existir, tales como el floro, el cloro, el sulfuro, etc. La síntesis de pollímeros se lleva a cabo en reactores, a menudo con la aplicación de calor y temperatura, para que de esta forma las unidades monoméricas se conecten unas con otras por medio de una reacción química. Al proceso químico de síntesis de polímeros se le denomina polimerización. 
+
 *** Breve historia de los materiales poliméricos o polímeros 
 
 **** Edad Antigua 
