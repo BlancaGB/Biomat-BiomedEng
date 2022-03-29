@@ -1,0 +1,49 @@
+#+TITLE:     Clases y Métodos
+
+#+STARTUP: beamer
+#+SETUPFILE: config.org
+#+OPTIONS: H:3
+#+PROPERTY: header-args :results output :exports both :session R:class :tangle yes :comments org
+
+* OOP en R
+
+*** Programación Orientada a Objetos (OOP)
+   - Los objetos encapsulan información y control de su comportamiento (/objects/).
+   - Las clases describen propiedades de un grupo de objetos (/class/).
+   - Se pueden definir clases a partir de otras (/inheritance/).
+   - Una función genérica se comporta de forma diferente atendiendo a la
+     clase de uno (o varios) de sus argumentos (/polymorphism/).
+*** OOP en R
+En =R= coexisten dos implementaciones de la OOP:
+   - =S3=: elaboración informal con enfasis en las funciones genéricas y el polimorfismo.
+   - =S4=: elaboración formal de clases y métodos.
+*** OOP en R
+**** Referencias 						    :B_block:
+     :PROPERTIES:
+     :BEAMER_env: block
+     :END:
+#+BEGIN_CENTER
+- [[http://www.springer.com/gb/book/9780387759357][Software for Data Analysis]] 
+- [[http://developer.r-project.org/howMethodsWork.pdf][How Methods Work]]
+- [[http://www.stat.auckland.ac.nz/S-Workshop/Gentleman/S4Objects.pdf][S4 classes in 15 pages]]
+- [[http://bioconductor.org/help/publications/books/r-programming-for-bioinformatics/][R Programming for Bioinformatics ]]
+- [[http://bioconductor.org/help/course-materials/2010/AdvancedR/S4InBioconductor.pdf][S4 System Development in Bioconductor]]
+#+END_CENTER
+
+* Clases y métodos S3
+
+** Clases
+*** Clases
+Los objetos básicos en =R= tienen una clase implícita definida en =S3=. Es accesible con =class=.
+#+begin_src R
+  x <- rnorm(10)
+  class(x)
+#+end_src
+Pero no tienen atributo...
+#+begin_src R
+attr(x, 'class')
+#+end_src
+...ni se consideran formalmente objetos
+#+begin_src R
+is.object(x)
+#+end_src
