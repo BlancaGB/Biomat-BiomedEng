@@ -51,7 +51,7 @@ El módulo elástico puede reducirse disminuyendo el peso molecular del material
 #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/PolimBiomed.png]]
    
-*** 1.2 Conceptos básicos: definición, estructura y composición química 
+** 2 Conceptos básicos: definición, estructura y composición química 
 
 **** Microestructura  
 
