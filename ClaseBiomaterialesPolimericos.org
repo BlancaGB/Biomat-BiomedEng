@@ -70,7 +70,7 @@ Para sustituir las válvulas existen terapias que se basan en el empleo de dos t
 Todavía, sin embargo, no existe ninguna terapia basada en válvulas artificiales que combine las prestaciones mecánicas de las válvulas biológicas y la durabilidad de las válvulas mecánicas. ¿Podrían usarse los materiales poliméricos sintéticos para este tipo de terapia? 
 
    #+ATTR_LATEX: :height 0.05\textheight
-[[file:Figs/Valvulas.png]]
+[[file:Figs/Valvulas2.png]]
 
 ** 2. Conceptos básicos: definición, estructura y composición química 
 
