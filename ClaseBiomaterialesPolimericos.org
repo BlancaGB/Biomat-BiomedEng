@@ -51,7 +51,7 @@ El módulo elástico de un polímero puede reducirse modificando el peso molecul
 #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/PolimBiomed.png]]
    
-*** 1.3 Válvulas cardíacas: ¿podrían usarse polímeros para sustituirlas? 
+*** 1.3 Un problema que ha motivado la investigación de materiales poliméricos: la disfución de las válvulas cardíacas. 
   
 *Válvulas cardíacas*. Las válvulas del corazón o válvulas cardíacas se encuentran en los conductos de salida de las cuatro cavidades del corazón, donde cumplen la función de impedir que la sangre fluya en sentido contrario. Esta función se consigue al mantener aislado el flujo sanguíneo por un instante en alguna de las cuatro cavidades. Con las diferentes contracciones del corazón, sus cuatro cavidades también se contraen en una secuencia determinada para poder bombear la sangre en una dirección. Sin las válvulas, la sangre volvería a la cavidad después de la contracción, por lo que el corazón no podría impulsar la sangre al resto del cuerpo.  
 
@@ -66,6 +66,9 @@ El módulo elástico de un polímero puede reducirse modificando el peso molecul
 
   - Las válvulas mecánicas están hechas de metales, cerámicas y plásticos. Hay diferentes tipos de válvulas mecánicas, pero es preferible utilizar aquellas que tienen dos valvas (bivalvas); existen válvulas de una sola valva o disco. La ventaja de las válvulas mecánicas es que son muy duraderas debido a los materiales con que están construidas. Sin embargo, estos materiales pueden causar coágulos dentro del corazón, por eso los pacientes portadores de estas prótesis mecánicas deben recibir un tratamiento anticoagulante toda la vida (tipo acenocumarol, de nombre comercial sintrom). Además, muchas veces son demasiado rígidas y terminan generando daño tisular.
    
+   #+ATTR_LATEX: :height 0.05\textheight
+[[file:Figs/Valvulas.png]]
+
 ** 2. Conceptos básicos: definición, estructura y composición química 
 
 **** Microestructura  
