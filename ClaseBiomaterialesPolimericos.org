@@ -37,11 +37,9 @@ De *1950-1970* continuó el desarrollo de diversass tecnologías biomédicas bas
 
 En *1976* se comenzó a aplicar la regulación de la /Food and Drug Administration/ (FDA) de Estados Unidos, para cualquier dispositivo médico que quisiera entrar al mercado. Como resultado, se retiraron algunos de los materiales poliméricos empleados hasta la fechas, mientras que otros polímeros se terminaron posicionando como las soluciones más habituales para aplicaciones biomédicas. En la actualidad, el campo de materiales poliméricos para biomedicina se centra en mejorar el comportamiento biocompatible de los materiales poliméricos en el cuerpo. 
 
-*** 1.2 Propiedades de los polímeros que justifican su aplicación en biomedicina
+*** 1.2 Ventaja de los polímeros frente a otros materiales que justifica sus aplicaciones biomédicas
 
-¿Qué ventaja ofrece el uso de materiales poliméricos frente a otros materiales en biomedicina? 
-
-La *versatilidad de su comportamiento mecánico* en el rango de los tejidos biológicos. Los polímeros son posiblemente la familia de materiales que ofrecen un mayor rango de propiedades mecánicas semejantes a las de los tejidos naturales. Esto se debe a la microestructura macromolecular de los polímeros, la cual les otorga una serie propiedades biomiméticas que se utilizan a conveniencia para remplazar diversos tejidos. Por ejemplo, el módulo elático y la resistencia a fractura de un polímero puede modularse a través de la composición de los mismos, y proporcionar así propiedades mecánicas próximas a las de los materiales del cuerpo. En la figura se representa una comparación del módulo elástico de metales, cerámicos y polímeros, así como de tejidos duros y blandos del cuerpo. [fn:1]
+La principal ventaja oque frece el uso de materiales poliméricos frente a otros materiales en biomedicina es la *versatilidad de su comportamiento mecánico* en el rango de los tejidos biológicos. Los polímeros son posiblemente la familia de materiales que ofrecen un mayor rango de propiedades mecánicas semejantes a las de los tejidos naturales. Esto se debe a la microestructura macromolecular de los polímeros, la cual les otorga una serie propiedades biomiméticas que se utilizan a conveniencia para remplazar diversos tejidos. Por ejemplo, el módulo elático y la resistencia a fractura de un polímero puede modularse a través de la composición de los mismos, y proporcionar así propiedades mecánicas próximas a las de los materiales del cuerpo. En la figura se representa una comparación del módulo elástico de metales, cerámicos y polímeros, así como de tejidos duros y blandos del cuerpo. [fn:1]
 
 #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/PropMecanicas.png]]
