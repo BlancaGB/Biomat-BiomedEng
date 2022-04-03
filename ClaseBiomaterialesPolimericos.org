@@ -25,7 +25,7 @@ En el siglo XIX comienza a estudiarse la microestructura de los polímeros, y se
    
 **** Siglo XX
 
-El campo de los materiales poliméricos se desarrolló de forma exponencial en el periodo de entreguerras y durante Segunda Guerra mundial. Por ejemplo, se desarrollaron nuevos plásticos para que los militares pudieran aislarse y no ser detectados por los radares del ejército enemigo. Se sintetizaron nuevos poliméricos de uso mundial como el Nylon (1930), el Polietileno (1933) y el Polietileno (1941)
+El campo de los materiales poliméricos se desarrolló de forma exponencial en el periodo de entreguerras y durante Segunda Guerra mundial. Por ejemplo, se desarrollaron nuevos plásticos para que los militares pudieran aislarse y no ser detectados por los radares del ejército enemigo. Se sintetizaron nuevos poliméricos de uso mundial como el *Nylon* (1930), el polietileno *(PE)* (1933) y el tereftalato de polietileno *(Polietileno)* (1941).
    
 *** 1.2 Conceptos básicos: definición, estructura y composición química 
 
