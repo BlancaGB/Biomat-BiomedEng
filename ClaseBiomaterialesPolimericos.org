@@ -23,7 +23,7 @@ En el siglo XIX comienza a estudiarse la *microestructura de los polímeros*, y 
    - *1909*: Adolf von Baeyer sintetiza el *primer polímero sintético, la baquelita*. Se sintetizó a partir de moléculas de fenol y formaldehído. La baquelita se utilizó en diversas industrias tecnológicas, como material de carcarsas para teléfonos y radios.
    - *1926*: Hermann Staudinger (Premio Nobel de Química en 1953) demuestra la existencia de *macromoléculas* o macrocadenas en la estructura de los polímeros y sienta las bases científicas de la polimerización. Plantea la hipótesis de que un polímero es una combinación de moléculas catenadas unidas por enlaces convalentes y formadas por unidades pequeñas que se repiten. 
    
-**** Siglo XX: primeras prótesis biomédicas usando materiales polímericos
+**** Siglo XX: desarollo de las prótesis biomédicas usando materiales polímericos
 
 El campo de los materiales poliméricos se desarrolló de forma exponencial en el periodo de entreguerras y durante Segunda Guerra mundial. Por ejemplo, se desarrollaron nuevos plásticos para que los militares pudieran aislarse y no ser detectados por los radares del ejército enemigo. Se sintetizaron nuevos polímeros como el *Nylon* en 1930, el polietileno *(PE)* en 1933 y el tereftalato de polietileno *(PET)* en 1941.
 
