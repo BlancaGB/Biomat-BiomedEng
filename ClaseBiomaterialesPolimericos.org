@@ -97,6 +97,6 @@ Si se usan
 
 ** Footnotes
 
-[fn:1]/[Figura adaptada de Ducheyne, P. (2015). Comprehensive biomaterials (Vol. 1). Elsevier, pag. 374]/
+[fn:1] /Figura adaptada de Ducheyne, P. (2015). Comprehensive biomaterials (Vol. 1). Elsevier, pag. 374/
 
-[fn:2] /[Figura adaptada de Ducheyne, P. (2015). Comprehensive biomaterials (Vol. 1). Elsevier, pag. 375]/
+[fn:2] /Figura adaptada de Ducheyne, P. (2015). Comprehensive biomaterials (Vol. 1). Elsevier, pag. 375/
