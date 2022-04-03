@@ -51,13 +51,17 @@ El módulo elástico de un polímero puede reducirse modificando el peso molecul
    
 *** 1.3 Polímeros, ¿una oportunidad terapeútica en valvulopatías? 
 
+****Válvulas cardíacas: función, composición y valvulopatías
+
 Una de las cuestiones abiertas de la cardiología es optimizar el empleo de materiales artificiales como sustitutos de válvulas cardiacas dañadas. Las válvulas del corazón o válvulas cardíacas se encuentran en los conductos de salida de las cuatro cavidades del corazón, donde cumplen la función de impedir que la sangre fluya en sentido contrario. Esta función se consigue al mantener aislado el flujo sanguíneo por un instante en alguna de las cuatro cavidades. Con las diferentes contracciones del corazón, sus cuatro cavidades también se contraen en una secuencia determinada para poder bombear la sangre en una dirección. Sin las válvulas, la sangre volvería a la cavidad después de la contracción, por lo que el corazón no podría impulsar la sangre al resto del cuerpo.  
 
-*Composición de las válvulas*. Las válvulas están formadas por unas membranas finas que son resistentes a la presión y procuran la apertura y cierre de las aurículas y los ventrículos. Están constituidas por tejido endotelial, que es el mismo que recubre el interior de los vasos sanguíneos y el corazón. 
+Las válvulas están formadas por unas membranas finas que son resistentes a la presión y procuran la apertura y cierre de las aurículas y los ventrículos. Están constituidas por tejido endotelial, que es el mismo que recubre el interior de los vasos sanguíneos y el corazón. 
 
-*Valvulopatías*. En determinadas ocasiones una o varias válvulas dejan de funcionar correctamente, y a estas enfermedades se las denomina valvulopatías. Las válvulas pueden dañarse por infecciones, traumatismos, por envejcimiento u otras causas, causando una disminución de la apertura (estenosis), el cierre insuficiente (insuficiencia) o una combinación de las mismas  
+En determinadas ocasiones una o varias válvulas dejan de funcionar correctamente, y a estas enfermedades se las denomina valvulopatías. Las válvulas pueden dañarse por infecciones, traumatismos, por envejcimiento u otras causas, causando una disminución de la apertura (estenosis), el cierre insuficiente (insuficiencia) o una combinación de las mismas  
 
-*Terapias basadas en el empleo de válvulas artificiales*. Para sustituir las válvulas existen terapias que se basan en el empleo de dos tipos de válvulas: 
+****Terapias basadas en el empleo de válvulas artificiales
+
+Para sustituir las válvulas existen terapias que se basan en el empleo de dos tipos de válvulas: 
 
   - *Las válvulas biológicas* proceden de tejidos animales (válvulas aórticas de cerdo o válvulas fabricadas con pericardio de ternera). También hay válvulas procedentes de la aorta humana. Todas estas válvulas biológicas reciben un tratamiento que las hacen suficientemente duraderas para los casos en que van a ser utilizadas y no producen ningún tipo de rechazo por ese tratamiento que han recibido. La ventaja de estas válvulas de tejido es que tienen un funcionamiento muy similar a la válvula natural y son muy bien toleradas dentro del corazón, sin tratamientos especiales que las otras precisan. Una desventaja es que habitualmente son menos duraderas; por eso se seleccionan para determinados pacientes en función de la enfermedad y de la edad.
 
