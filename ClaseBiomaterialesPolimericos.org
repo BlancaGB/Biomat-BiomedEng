@@ -34,6 +34,16 @@ De *1930-1950* se siguieron utilizando materiales poliméricos para diversas apl
 De *1950-1970* continuó el desarrollo de diversass tecnologías biomédicas basadas en polímeros para fabricar *válvulas cardíacas* biocompatibles, *prótesis ortopédicas*, materiales de *sutura*, materiales para *ortodoncia* y para reconstrucción de *tejidos blandos*. Las primeras válvulas cardiacas artificiales estaban hechas de silicona; no obstante presentaban un mal comportamiento /in vivo/, debido a la adsorción de lípidos en su superficie del material. Se observó también que las espuemas de uretano y las prótesis mamarias de silicona generaban *una respuesta inflamatoria crónica* y que el teflón, que se usaba en implantes dentales, experimentaba *corrosión* y por ello causaba el fallo prematuro del material. 
 
 En *1976* se comenzó a aplicar la regulación de la /Food and Drug Administration/ (FDA) de Estados Unidos, para cualquier dispositivo médico que quisiera entrar al mercado. Como resultado, se retiraron algunos de los materiales poliméricos empleados hasta la fechas, mientras que otros polímeros se terminaron posicionando como las soluciones más habituales para aplicaciones biomédicas. En la actualidad, el campo de materiales poliméricos para biomedicina se centra en mejorar el comportamiento biocompatible de los materiales poliméricos en el cuerpo. 
+
+*** 1.2 Propiedades de los polímeros que justifican su uso en dispositivos biomédicos  
+
+¿Qué ventajas ofrecen los materiales poliméricos sintéticos respecto a otras familias de materiales en biomedicina? 
+
+1. Versatilidad en su comportamiento mecánico. Los polímeros son posiblemente la familia de materiales que ofrecen un mayor rango de propiedades mecánicas semejantes a las de los tejidos naturales. Esto se debe a la microestructura macromolecular de los polímeros, la cual les otorga una serie propiedades biomiméticas que se utilizan a conveniencia para remplazar diversos tejidos. Por ejemplo, el módulo elático y la resistencia a fractura de un polímero puede modularse a través de la composición de los mismos, y proporcionar así propiedades mecánicas próximas a las de los materiales del cuerpo. 
+
+En la figura se representa una comparación del módulo elástico de metales, cerámicos y polímeros, así como de tejidos duros y blandos del cuerpo. El módulo elástico puede reducirse disminuyendo el peso molecular del material o expandiendo el polímero para que sea más poroso. Esta variabilidad controlada de las propiedades mecánicas hace que superen a los cerámios o los metales, que suelen ser mucho más rígidos que los materiales biológicos adyacentes. En la tabla se ofrece un resumen de los polímeros que más se emplean en ortopedia, odontología e implantes cardiovasculares y de tejidos blandos. 
+
+
    
 *** 1.2 Conceptos básicos: definición, estructura y composición química 
 
