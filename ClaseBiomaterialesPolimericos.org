@@ -72,6 +72,13 @@ Todavía, sin embargo, no existe ninguna terapia basada en válvulas artificiale
    #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/Valvulas2.png]]
 
+*** 1.4 Criterios del diseño estructural de implantes usando polímeros 
+
+Los materiales poliméricos empleados en implantes estructurales son susceptibles de fallar en condiciones /in vivo/. El funcionamiento de un dispositivo médico es complejo puesto que debende de factores interrelacionados, que incluyen el diseño del implante, la selección del materila, los requisitos estructurales del dispositivo, el tipo de procesado o manofactura del implante y de aspectos clíninos. La figura ilustra los factores que contribuyen al buen funcionamiento de un dispositivo médico. 
+
+   #+ATTR_LATEX: :height 0.05\textheight
+[[file:Figs/Factores.png]]
+
 ** 2. Conceptos básicos: definición, estructura y composición química 
 
 **** Microestructura  
