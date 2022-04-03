@@ -21,11 +21,19 @@ En el siglo XIX comienza a estudiarse la *microestructura de los polímeros*, y 
 
    - *1836*: Charles Goodyear describe de manera científica el fenómeno de la vulcanización del caucho. El caucho o hule (hidrocarburo: C_{5}H_{8}) es una sustancia natural elástica, insoluble en agua y con alta resistividad eléctrica, que se encuentra en forma de suspensión coloidal en el látex. La vulcanización es un proceso que ocurre al calentar el caucho natural en la presencia de azufre: se obtiene así el caucho vulcanizado. Charles Goodyear denominó a este proceso de endurecimiento del caucho natural *vulcanización*, en honor al dios romano del fuego, Vulcano. Recientemente, estudios arqueológicos desarollados en México han revelado la existencia precolombina de pelotas de caucho vulcanizado en un pueblo mesoamericano, por lo que se especula que podría haber sido la civilización pionera en el uso de la vulcanización.
    - *1909*: Adolf von Baeyer sintetiza el *primer polímero sintético, la baquelita*. Se sintetizó a partir de moléculas de fenol y formaldehído. La baquelita se utilizó en diversas industrias tecnológicas, como material de carcarsas para teléfonos y radios.
-   - *1926*: Hermann Staudinger (Premio Nobel de Química en 1953) demuestra la existencia de *macromoléculas* en la estructura de los polímeros y sienta las bases científicas de la polimerización. Plantea la hipótesis de que un polímero es una combinación de moléculas catenadas unidas por enlaces convalentes y formadas por unidades pequeñas que se repiten. 
+   - *1926*: Hermann Staudinger (Premio Nobel de Química en 1953) demuestra la existencia de *macromoléculas* o macrocadenas en la estructura de los polímeros y sienta las bases científicas de la polimerización. Plantea la hipótesis de que un polímero es una combinación de moléculas catenadas unidas por enlaces convalentes y formadas por unidades pequeñas que se repiten. 
    
-**** Siglo XX
+**** Siglo XX: primeras prótesis biomédicas usando materiales polímericos
 
 El campo de los materiales poliméricos se desarrolló de forma exponencial en el periodo de entreguerras y durante Segunda Guerra mundial. Por ejemplo, se desarrollaron nuevos plásticos para que los militares pudieran aislarse y no ser detectados por los radares del ejército enemigo. Se sintetizaron nuevos poliméricos de uso mundial como el *Nylon* en 1930, el polietileno *(PE)* en 1933 y el tereftalato de polietileno *(Polietileno)* en 1941.
+
+En 1930 se utilizó por primera vez un material polimérico como implante biomédico, el polimetilmetacrilato *(PMMA)*, debido a su biocompatibilidad, rigidez y propiedades ópticas. El PMMA sigue utilizándose en la actualidad para aplicaciones bioméidcas, como cemento óseo en odontología o traumatología. 
+
+De 1930-1950 se siguieron utilizando materiales poliméricos para diversas aplicaciones biomédicas, como bombas sanguíneas, injertos vasculares, catéteres angioplásticos, implantes dentales o prótesis mamarias. Por ejemplo, se empleaban elastómeros, siliconas y poliuretanos (PU) en esa época; sin embargo, no existían todavía regulaciones legales para los dispositivos biomédicos, y muchos de los componentes de los materiales se degradaban en condiciones /in vivo/ o se fracturaban por fatiga. 
+
+De 1950-1970 se desarrollaron tecnologías bioméidcas para reemplazar válvulas cardíacas, prótesis ortopédicas, suturas, materiales para ortodoncia y reconstrucción de tejidos blandos. Las válvulas cardiacas tempranas hechas de siliconas tenían muy mal comportamiento in vivo, debido a la adsorción de lípidos en su superficie; las espuemas de uretano y las prótesis mamarias de silicona parecían generar una respuesta inflamatoria crónica; el Teflón que se usaba en implantes dentales se terminaba complicando por corrosión y fallo prematuro del material. 
+
+En 1976 se introdujo en EEUU la regulación de lal FDA para cualquier dispositivo médico que quisiera llegar al mercado. Algunos de los materiales poliméricos empleados hasta la fecha se retiraron del mercado, mientras que otros polímeros se conviertieron en las soluciones más frecuentes. Desde entonces, el campo de materiales poliméricos para biomedicina se ha centrado en mejorar el comportamiento de los materiales poliméricos en el cuerpo. 
    
 *** 1.2 Conceptos básicos: definición, estructura y composición química 
 
