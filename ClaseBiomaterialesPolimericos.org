@@ -5,7 +5,8 @@
 #+OPTIONS: H:3
 #+OPTIONS: ^:{}
 #+OPTIONS: _:{}
-#+STARTUP: fninline’ or ‘#+STARTUP: nofninline
+#+LATEX_HEADER: \usepackage{endnotes}
+#+LATEX_HEADER: \renewcommand{\footnote}{\endnote}
 #+PROPERTY: header-args :results output :exports both :session R:class :tangle yes :comments org
 
 ** 1. Introducción 
