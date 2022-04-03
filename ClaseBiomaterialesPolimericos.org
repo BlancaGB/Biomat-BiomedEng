@@ -44,7 +44,7 @@ En *1976* se comenzó a aplicar la regulación de la /Food and Drug Administrati
 #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/PropMecanicas.png]]
 
-/Source: Ducheyne, P. (2015). Comprehensive biomaterials (Vol. 1). Elsevier./
+                     /Imagen adaptada de Ducheyne, P. (2015). Comprehensive biomaterials (Vol. 1). Elsevier./
 
 El módulo elástico puede reducirse disminuyendo el peso molecular del material o expandiendo el polímero para que sea más poroso. Esta variabilidad controlada de las propiedades mecánicas hace que superen a los cerámios o los metales, que suelen ser mucho más rígidos que los materiales biológicos adyacentes. En la tabla se ofrece un resumen de los polímeros que más se emplean en ortopedia, odontología e implantes cardiovasculares y de tejidos blandos. 
 
