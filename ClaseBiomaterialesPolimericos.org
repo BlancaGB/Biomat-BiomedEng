@@ -25,7 +25,7 @@ En el siglo XIX comienza a estudiarse la *microestructura de los polímeros*, y 
    
 **** Siglo XX: primeras prótesis biomédicas usando materiales polímericos
 
-El campo de los materiales poliméricos se desarrolló de forma exponencial en el periodo de entreguerras y durante Segunda Guerra mundial. Por ejemplo, se desarrollaron nuevos plásticos para que los militares pudieran aislarse y no ser detectados por los radares del ejército enemigo. Se sintetizaron nuevos poliméricos de uso mundial como el *Nylon* en 1930, el polietileno *(PE)* en 1933 y el tereftalato de polietileno *(Polietileno)* en 1941.
+El campo de los materiales poliméricos se desarrolló de forma exponencial en el periodo de entreguerras y durante Segunda Guerra mundial. Por ejemplo, se desarrollaron nuevos plásticos para que los militares pudieran aislarse y no ser detectados por los radares del ejército enemigo. Se sintetizaron nuevos poliméricos de uso mundial como el *Nylon* en 1930, el polietileno *(PE)* en 1933 y el tereftalato de polietileno *(PET)* en 1941.
 
 En *1930* se utilizó un *material polimérico como implante biomédico por primera vez*, el polimetilmetacrilato *(PMMA)*, debido a su biocompatibilidad, rigidez y propiedades ópticas. El PMMA se sigue utilizando en la actualidad para aplicaciones biomédicas, p.ej. como *cemento óseo* en odontología y traumatología. 
 
