@@ -81,24 +81,38 @@ Los materiales poliméricos empleados en implantes estructurales son susceptible
 
 ** 2. Conceptos básicos
 
+Un *polímerp* es una macromolécula formada por la unión de moléculas más pequeñas llamadas monómeros y con un elevado peso molecular. 
+
 *** 2.1 Composición 
 
 La mayoría de los monómeros están compuestos por carbono, hidrógeno, oxígeno y nitrógeno. Unos pocos elementos adicionales pueden existir, tales como el floro, el cloro, el sulfuro, etc.
 
 *** 2.2 Microestructura  
 
-Un polímero es una macromolécula orgánica relativamente grande (10^{4}- 10^{6} g/mol) compuesta por una catenación de múltiples unidades pequeñas que se repiten. A las pequeñas unidades que se repiten se les denomina *monómero*, y la unidad que se repite a lo largo de la cadena se llama *unidad estructural repetitiva*. 
+A las pequeñas unidades que se repiten en un polímero se les denomina *monómero*, y la unidad que se repite a lo largo de la cadena se llama *unidad estructural repetitiva*. 
 
 Conformació:  isómeros, tacticida 
+
    
 *** 2.3 Macroestructura
 
-***** Peso molecular, ramificación
+***** Grado de polimerización (GP)
+
+El grado de polimerización de un polímero es la relación entre la masa molecular del polímero y la de la UER. Tiene gran influencia sobre las propiedades del polímero (polímeros de bajo GP tienden a ser líquidos mientras que los que tienen altos GP son solidos y quebradizos). Un oligómero es una molécula con GP pequeño. 
+
+
+***** Peso molecular promedio en número y en masa 
+
+El peso molecular promedio en número y promedio en masa puede calcularse con las siguientes formulas:
 
 #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/MolW.png]]
 
+La fracción molar x = Xi/X y la fracción másica wi = Wi/W. 
 
+***** Índice de polidispersidad
+
+El índice de polidispersidad, IP = Mw/Mn, nos indica la homogeneidad de pesos moleculares de un polímero. Valores altos nos indican gran dispersión. Si IP=1 el polímero se dice que es monodisperso
 
 ***** Enlaces (o no) entre moléculas
 
@@ -106,13 +120,15 @@ Conformació:  isómeros, tacticida
 Si se usan 
 
    
-*** 2.3 Clasificación de los polímeros 
+*** 2.3 Clasificación de las reacciones poliméricas
 
 La mayoría de los monómeros están compuestos por carbono, hidrógeno, oxígeno y nitrógeno. Unos pocos elementos adicionales pueden existir, tales como el floro, el cloro, el sulfuro, etc.
    
-** 3. Síntesis: tipos de polimerización
+** 3. Síntesis: procesos de polimerización
 
 *** 3.1 Polimerización por adición 
+
+**** Proceso de polimerización por vía radicalaria 
 
 La síntesis de pollímeros se lleva a cabo en reactores, a menudo con la aplicación de calor y temperatura, para que de esta forma las unidades monoméricas se conecten unas con otras por medio de una reacción química. Al proceso químico de síntesis de polímeros se le denomina polimerización.
   
