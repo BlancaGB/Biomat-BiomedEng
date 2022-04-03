@@ -46,7 +46,7 @@ La *versatilidad de su comportamiento mecánico* en el rango de los tejidos biol
 #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/PropMecanicas.png]]
 
-El módulo elástico puede reducirse disminuyendo el peso molecular del material o expandiendo el polímero para que sea más poroso. Esta variabilidad controlada de las propiedades mecánicas hace que superen a los cerámios o los metales, que suelen ser mucho más rígidos que los materiales biológicos adyacentes. En la tabla  se ofrece un resumen de los polímeros que más se emplean en ortopedia, odontología e implantes cardiovasculares y de tejidos blandos. [fn:2]
+El módulo elástico de un polímero puede reducirse modificando el peso molecular del material, o expandiendo las cadenas polímericas para obtener un material más poroso. La posibilidad de variar de manera controlada de las propiedades mecánicas de los polímeros supone una gran ventaje frente al uso de materiales cerámios y métalicos, ya estas familias presentan mayor rigidez que los materiales biológicos del cuerpo. En la tabla se presenta un resumen de los polímeros que más se usan en ortopedia, odontología e implantes cardiovasculares y de tejidos blandos. [fn:2]
 
 #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/PolimBiomed.png]]
