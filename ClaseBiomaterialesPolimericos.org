@@ -79,33 +79,19 @@ Los materiales poliméricos empleados en implantes estructurales son susceptible
    #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/Factores.png]]
 
-** 2. Conceptos básicos: definición, estructura y composición química 
+** 2. Conceptos básicos
 
-**** Microestructura  
+*** 2.1 Composición 
 
-***** Monómero(s) y unidad repetitiva 
-   - Un polímero es una macromolécula orgánica relativamente grande (10^{4}- 10^{6} g/mol) compuesta por una combinación de múltiples unidades pequeñas que se repiten. A las pequeñas unidades que se repiten se les denomina "monómeros", y la unidad que se repite a lo largo de la cadena se llama "unidad estructural repetida". 
+La mayoría de los monómeros están compuestos por carbono, hidrógeno, oxígeno y nitrógeno. Unos pocos elementos adicionales pueden existir, tales como el floro, el cloro, el sulfuro, etc.
+
+*** 2.2 Microestructura  
+
+Un polímero es una macromolécula orgánica relativamente grande (10^{4}- 10^{6} g/mol) compuesta por una catenación de múltiples unidades pequeñas que se repiten. A las pequeñas unidades que se repiten se les denomina *monómero*, y la unidad que se repite a lo largo de la cadena se llama *unidad estructural repetitiva*. 
+
+Conformació:  isómeros, tacticida 
    
-   
-***** Composición química
-   - La mayoría de los monómeros están compuestos por carbono, hidrógeno, oxígeno y nitrógeno. Unos pocos elementos adicionales pueden existir, tales como el floro, el cloro, el sulfuro, etc.
-   
-   
-***** Mecanismo de polimerización
-   - La síntesis de pollímeros se lleva a cabo en reactores, a menudo con la aplicación de calor y temperatura, para que de esta forma las unidades monoméricas se conecten unas con otras por medio de una reacción química. Al proceso químico de síntesis de polímeros se le denomina polimerización.
-   - 
-   
-***** Configuración: isómeros, tacticida 
-
-***** Conformación
-
-Monómero(s) y unidad repetitiva
-Configuración: isómeros, tacticidad
-Conformación: 
-
-
-
-**** Macroestructura
+*** 2.3 Macroestructura
 
 ***** Peso molecular, ramificación
 
@@ -113,6 +99,27 @@ Conformación:
 
 **** Aditivos  
 Si se usan 
+
+   
+*** 2.3 Clasificación de los polímeros 
+
+La mayoría de los monómeros están compuestos por carbono, hidrógeno, oxígeno y nitrógeno. Unos pocos elementos adicionales pueden existir, tales como el floro, el cloro, el sulfuro, etc.
+   
+** 3. Síntesis: tipos de polimerización
+
+*** 3.1 Polimerización por adición 
+
+La síntesis de pollímeros se lleva a cabo en reactores, a menudo con la aplicación de calor y temperatura, para que de esta forma las unidades monoméricas se conecten unas con otras por medio de una reacción química. Al proceso químico de síntesis de polímeros se le denomina polimerización.
+  
+  
+#+ATTR_LATEX: :height 0.05\textheight
+[[file:Figs/TablaPolimTipicosAdic.png]]
+   
+*** 3.2 Polimerización por condensación 
+
+#+ATTR_LATEX: :height 0.05\textheight
+[[file:Figs/TablaPolimTipicosCond.png]]
+
 
 
 ** Tipos 
