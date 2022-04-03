@@ -9,7 +9,7 @@
 
 ** 1. Introducción 
 
-*** Breve historia de los materiales poliméricos o polímeros 
+*** 1.1 Breve historia de los materiales poliméricos o polímeros 
 
 **** Edad Antigua 
 
@@ -25,7 +25,7 @@ Los materiales poliméricos de origen natural se comenzaron a utilizar a partir 
 
 El campo de los materiales poliméricos se desarrolló de forma exponencial en el periodo de entreguerras y durante Segunda Guerra mundial. Por ejemplo, se desarrollaron nuevos plásticos para que los militares pudieran aislarse y no ser detectados por los radares del ejército enemigo. Se sintetizaron nuevos poliméricos de uso mundial como el Nylon (1930), el Polietileno (1933) y el Polietileno (1941)
    
-*** Definición, estructura y composición química 
+*** 1.2 Conceptos básicos: definición, estructura y composición química 
 
 **** Microestructura  
 
