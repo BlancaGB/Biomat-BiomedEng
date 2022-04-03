@@ -39,20 +39,15 @@ En *1976* se comenzó a aplicar la regulación de la /Food and Drug Administrati
 
 ¿Qué ventajas ofrecen los materiales poliméricos sintéticos respecto a otras familias de materiales en biomedicina? 
 
-1. Versatilidad en su comportamiento mecánico. Los polímeros son posiblemente la familia de materiales que ofrecen un mayor rango de propiedades mecánicas semejantes a las de los tejidos naturales. Esto se debe a la microestructura macromolecular de los polímeros, la cual les otorga una serie propiedades biomiméticas que se utilizan a conveniencia para remplazar diversos tejidos. Por ejemplo, el módulo elático y la resistencia a fractura de un polímero puede modularse a través de la composición de los mismos, y proporcionar así propiedades mecánicas próximas a las de los materiales del cuerpo. En la figura se representa una comparación del módulo elástico de metales, cerámicos y polímeros, así como de tejidos duros y blandos del cuerpo. 
+1. Versatilidad en su comportamiento mecánico. Los polímeros son posiblemente la familia de materiales que ofrecen un mayor rango de propiedades mecánicas semejantes a las de los tejidos naturales. Esto se debe a la microestructura macromolecular de los polímeros, la cual les otorga una serie propiedades biomiméticas que se utilizan a conveniencia para remplazar diversos tejidos. Por ejemplo, el módulo elático y la resistencia a fractura de un polímero puede modularse a través de la composición de los mismos, y proporcionar así propiedades mecánicas próximas a las de los materiales del cuerpo. En la figura [fn:1] se representa una comparación del módulo elástico de metales, cerámicos y polímeros, así como de tejidos duros y blandos del cuerpo. 
 
 #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/PropMecanicas.png]]
 
-/[Figura adaptada de Ducheyne, P. (2015). Comprehensive biomaterials (Vol. 1). Elsevier, pag. 374]/
-
-El módulo elástico puede reducirse disminuyendo el peso molecular del material o expandiendo el polímero para que sea más poroso. Esta variabilidad controlada de las propiedades mecánicas hace que superen a los cerámios o los metales, que suelen ser mucho más rígidos que los materiales biológicos adyacentes. En la tabla se ofrece un resumen de los polímeros que más se emplean en ortopedia, odontología e implantes cardiovasculares y de tejidos blandos. 
+El módulo elástico puede reducirse disminuyendo el peso molecular del material o expandiendo el polímero para que sea más poroso. Esta variabilidad controlada de las propiedades mecánicas hace que superen a los cerámios o los metales, que suelen ser mucho más rígidos que los materiales biológicos adyacentes. En la tabla [fn:2] se ofrece un resumen de los polímeros que más se emplean en ortopedia, odontología e implantes cardiovasculares y de tejidos blandos. 
 
 #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/PolimBiomed.png]]
-
-/[Figura adaptada de Ducheyne, P. (2015). Comprehensive biomaterials (Vol. 1). Elsevier., pag. 375]/
-
    
 *** 1.2 Conceptos básicos: definición, estructura y composición química 
 
@@ -100,6 +95,6 @@ Si se usan
 
 ** Footnotes
 
-[fn:2]https://lifewatch.inbo.be/blog/files/bird_tracking.zip 
+[fn:1]/[Figura adaptada de Ducheyne, P. (2015). Comprehensive biomaterials (Vol. 1). Elsevier, pag. 374]/
 
-[fn:1] https://lifewatch.inbo.be/blog/posts/bird-tracking-data-published.html
+[fn:2] /[Figura adaptada de Ducheyne, P. (2015). Comprehensive biomaterials (Vol. 1). Elsevier, pag. 375]/
