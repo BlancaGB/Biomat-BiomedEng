@@ -37,7 +37,7 @@ De *1950-1970* continuó el desarrollo de diversass tecnologías biomédicas bas
 
 En *1976* se comenzó a aplicar la regulación de la /Food and Drug Administration/ (FDA) de Estados Unidos, para cualquier dispositivo médico que quisiera entrar al mercado. Como resultado, se retiraron algunos de los materiales poliméricos empleados hasta la fechas, mientras que otros polímeros se terminaron posicionando como las soluciones más habituales para aplicaciones biomédicas. En la actualidad, el campo de materiales poliméricos para biomedicina se centra en mejorar el comportamiento biocompatible de los materiales poliméricos en el cuerpo. 
 
-*** 1.2 Propiedades de los polímeros que justifican su uso en dispositivos biomédicos  
+*** 1.2 Propiedades de los polímeros que justifican su aplicación en biomedicina
 
 ¿Qué ventaja ofrece el uso de materiales poliméricos frente a otros materiales en biomedicina? 
 
