@@ -55,6 +55,9 @@ Los materiales poliméricos empleados en implantes estructurales son susceptible
 
 En esta clase vamos a ver las características generales de los materiales poliméricos y a cotninuación veremos como ejemolo los comúnmente utilizados en aplicaciones biomédicas.
 
+   #+ATTR_LATEX: :height 0.05\textheight
+[[file:Figs/Factores.png]]
+
 *** 1.4 Polímeros, ¿una oportunidad terapeútica en valvulopatías? 
 
 **** Válvulas cardíacas: función, composición y valvulopatías
@@ -77,10 +80,6 @@ Por tanto, no existe ninguna terapia basada en válvulas artificiales que combin
 
    #+ATTR_LATEX: :height 0.05\textheight
 [[file:Figs/Valvulas2.png]]
-
-
-   #+ATTR_LATEX: :height 0.05\textheight
-[[file:Figs/Factores.png]]
 
 ** 2. Conceptos básicos
 
